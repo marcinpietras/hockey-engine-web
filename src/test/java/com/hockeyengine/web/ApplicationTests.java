@@ -1,10 +1,10 @@
-package com.hockeyengine.hewebapp;
+package com.hockeyengine.web;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HeWebappApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {

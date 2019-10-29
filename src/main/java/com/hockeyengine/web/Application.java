@@ -1,4 +1,4 @@
-package com.hockeyengine.hewebapp;
+package com.hockeyengine.web;
 
 import java.util.EnumSet;
 
@@ -18,14 +18,14 @@ import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
 @EnableAutoConfiguration
-@ComponentScan({"com.hockeyengine.hewebapp"})
-public class HeWebappApplication {
+@ComponentScan({"com.hockeyengine.web"})
+public class Application {
 	
-	private static Logger logger = LoggerFactory.getLogger(HeWebappApplication.class);
+	private static Logger logger = LoggerFactory.getLogger(Application.class);
 
 	public static void main(String[] args) {
 		logger.info("Hockey Engine WebApp is starting up");
-		SpringApplication.run(HeWebappApplication.class, args);
+		SpringApplication.run(Application.class, args);
 		logger.info("Hockey Engine WebApp is up!");
 	}
 	

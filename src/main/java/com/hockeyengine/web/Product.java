@@ -1,4 +1,4 @@
-package com.hockeyengine.hewebapp;
+package com.hockeyengine.web;
 
 import java.math.BigDecimal;
 import java.util.Random;

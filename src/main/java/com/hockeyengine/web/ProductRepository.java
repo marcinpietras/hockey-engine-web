@@ -1,4 +1,4 @@
-package com.hockeyengine.hewebapp;
+package com.hockeyengine.web;
 
 import java.util.ArrayList;
 import java.util.HashMap;

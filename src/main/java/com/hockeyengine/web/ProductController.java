@@ -1,4 +1,4 @@
-package com.hockeyengine.hewebapp;
+package com.hockeyengine.web;
 
 import org.ocpsoft.rewrite.annotation.Join;
 import org.ocpsoft.rewrite.el.ELBeanName;
