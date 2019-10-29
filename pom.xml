@@ -12,10 +12,10 @@
 	</parent>
 
 	<groupId>com.hockeyengine</groupId>
-	<artifactId>he-webapp</artifactId>
+	<artifactId>hockey-engine-web</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>he-webapp</name>
-	<description>Hockey Engine WebApp</description>
+	<description>Hockey Engine Web</description>
 
 	<properties>
 		<java.version>1.8</java.version>
